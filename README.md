@@ -47,3 +47,9 @@ docker run -p 8084:8084 student-api-backend
 
 
 <img width="1919" height="1079" alt="Screenshot 2026-06-08 201802" src="https://github.com/user-attachments/assets/5ca1e58f-c2a2-4496-9b5a-0ef279e0648c" />
+
+
+## 📝 Task Submission Documents
+* [Task 1 - REST API Development](https://docs.google.com/document/d/1FY5p1W8P7nSlWtnOGJvS_vW2wd7aZZgGtRb5Z_nzh0Q/edit?usp=sharing)
+* [Task 2 - Database Version Control](https://docs.google.com/document/d/1013bDXRPMubd51ycy0jwDudDdH7UZAqZpAuYXdDwD_k/edit?usp=sharing)
+* [Task 4 - Dockerization](https://docs.google.com/document/d/1WpR9bduvHbNwuvY9mF67zv6LKi8IaQ_sBhk6COIxWrU/edit?usp=sharing)
